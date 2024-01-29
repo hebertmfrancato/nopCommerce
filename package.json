@@ -1,0 +1,19 @@
+{
+  "name": "nopcommerce",
+  "version": "1.0.0",
+  "description": "## Introdução",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-xpath": "^2.0.1",
+    "faker": "^6.6.6"
+  }
+}

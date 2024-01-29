@@ -1,0 +1,21 @@
+{
+    "hrf_register": "//a[@class='ico-register']",
+    "gender_male": "//input[@type='radio'][@id='gender-male']",
+    "gender_female": "//input[@type='radio'][@id='gender-female']",
+    "first_name": "//input[@id='FirstName']",
+    "last_name" : "//input[@id='LastName']",
+    "day_of_birthday" : "//select[@name='DateOfBirthDay']",
+    "month_of_birthday" : "//select[@name='DateOfBirthMonth']",
+    "year_of_birthday" : "//select[@name='DateOfBirthYear']",
+    "mail" : "//input[@id='Email']",
+    "company_name" : "//input[@id='Company']",
+    "password" : "//input[@id='Password']",
+    "confirm_password" : "//input[@id='ConfirmPassword']",
+    "btn_register" : "//button[@id='register-button']",
+    "registration_completed" : "//div[@class='result'][text()='Your registration completed']",
+    "msg_firstname_required" : "//span[@id='FirstName-error']",
+    "msg_lastname_required" : "//span[@id='LastName-error']",
+    "msg_email_required" : "//span[@id='Email-error']",
+    "msg_password_required" : "//span[@id='Password-error']",
+    "msg_confirm_password_error" : "//span[@id='ConfirmPassword-error']"
+}
